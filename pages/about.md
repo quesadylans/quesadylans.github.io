@@ -1,9 +1,9 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: '2025-09-18 07:35:39'
 title: About
-description: Some description.
+description: hola.
 permalink: /about/
 ---
 
@@ -11,9 +11,4 @@ permalink: /about/
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+quesadylans es la pagina de Dylan Gomez, un estudiante de Negocios Internacionales que sus principales intereses son la musica, los videojuegos. las peliculas y más, me gusta jaydes y la lasaña
